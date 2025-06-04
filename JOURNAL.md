@@ -13,3 +13,5 @@ It took some time since I was figuring out how I wanted to design the keyboard â
 ![image](https://github.com/user-attachments/assets/49c64dba-bd40-4ea0-a751-98f2b02a7990)
 
 I also finalized the keyboardâ€™s shape, the number of keys, and their sizes.
+
+![image](https://github.com/user-attachments/assets/58501384-e8a4-445e-9fdf-c5993a1891eb)
